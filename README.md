@@ -1,11 +1,7 @@
 # Statistical-Analysis-of-Influential-Stock-Returns
-This study aims to reveal statistically significant patterns in daily stock returns of three influential stocks: Apple Inc. (AAPL), Tesla Inc. (TSLA), and Boeing Co. (BA). Insights from this study will enhance understanding of their performance dynamics, relationships, and the effectiveness of trading strategies applied to each stock.
-
-
-# Stock Price Statistical Analysis
 
 ## Overview
-This project performs a detailed statistical analysis of stock price data, focusing on key performance metrics, risk assessment, and returns analysis. The R-based analysis includes advanced technical indicators, volatility modeling, and risk-adjusted performance evaluation, providing actionable insights for financial decision-making.
+This project performs a detailed statistical analysis of three influential stocks: Apple Inc. (AAPL), Tesla Inc. (TSLA), and Boeing Co. (BA), focusing on key performance metrics, risk assessment, and returns analysis. The R-based analysis includes technical indicators, volatility modeling, and risk-adjusted performance evaluation, providing actionable insights for financial decision-making.
 
 ## Key Analysis Components
 
